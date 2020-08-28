@@ -7,8 +7,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dep
 ```bash
 pip install -r requirements.txt
 ```
-## Usage
-
+## Play 
+To run the game
 ```bash
 python main.py
 ```
